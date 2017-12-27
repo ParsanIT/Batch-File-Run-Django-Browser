@@ -15,7 +15,7 @@ echo "Changing directory..."
 :: =========================================
 ::    Edit your django project directory
 :: =========================================
-cd C:\Users\Hotice\PycharmProjects\myfirstblog
+cd C:\myProjectAddress
 
 
 echo Now Server will be run at port 8000 by default
